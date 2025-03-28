@@ -2,6 +2,8 @@
 
 이 프로젝트는 강화학습에서 인간 피드백(Reinforcement Learning from Human Feedback, RLHF)을 사용하여 이미지 분류 모델을 훈련시키는 구현을 제공합니다. 개미와 꿀벌을 분류하는 예제를 통해 RLHF 방법론을 보여줍니다.
 
+![RLHF 이미지 분류 과정](img1.daumcdn-8.png)
+
 ## RLHF 작동 흐름도
 
 ```
